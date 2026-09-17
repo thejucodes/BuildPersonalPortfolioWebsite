@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your skills and projects with a responsive personal portfolio website designed for Thejasri M, a first-year Computer Science student.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
